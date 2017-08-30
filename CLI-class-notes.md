@@ -1,3 +1,5 @@
+# Command Line Interface class notes for August 30, 2017
+
 All of these commands can be studied in more depth by reading the Server Session Preparation Materials or links on that page below the Task box.
 
 [What is the Bash Shell?](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
