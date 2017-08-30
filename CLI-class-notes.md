@@ -62,10 +62,10 @@ learned.
 
 ```
 pwd         # see your present working directory
-touch &lt;&gt;    # create a new file
+touch       # create a new file
 clear       # clears the screen by moving it up, does not delete
 cd filename # change directory
-cd directoryname    # will autocomplete to the change in file name
+cd dirname  # will autocomplete to the change in file name
 up arrow    # cycle through commands
 down arrow  # cycle through commands
 cd ..       # move up a directory
@@ -89,8 +89,8 @@ cat         # see two or more files, or use it to
               just view one file (like our ssh public key)
 |           # pipe command; runs more that one command at once
 
-&gt;           # used with the cat command to create one file out of two             
-              Example: cat file file2 &gt; file3  
+>           # used with the cat command to create one file out of two             
+              Example: cat file file2 > file3  
 ```
 
 EDITORS
