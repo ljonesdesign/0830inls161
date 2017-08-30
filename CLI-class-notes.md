@@ -7,7 +7,7 @@ All of these commands can be studied in more depth by reading the Server Session
 GIT BASH prompt (BASH stands for Born Again SHell)
 
 ```
-1        2                   4a
+   1        2                   4a
    |        |                    |
    username@computername MINGW64 ~
    $
