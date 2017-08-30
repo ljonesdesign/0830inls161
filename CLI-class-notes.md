@@ -113,8 +113,6 @@ tail                     # see the link below</pre>
 
 <p><a href="https://2buntu.com/articles/1491/viewing-text-files-on-linux-cat-head-tail-more-and-less/">Viewing text files on linux - cat, head, tail, more and less</a></p>
 
-<p>https://2buntu.com/articles/1491/viewing-text-files-on-linux-cat-head-tail-more-and-less/</p>
-
 <p>This official Git tutorial is very helpful: <a href="https://try.github.io/levels/1/challenges/1">https://try.github.io/levels/1/challenges/1</a></p>
 
 <h2>How to Check if you have Git Installed:</h2>
