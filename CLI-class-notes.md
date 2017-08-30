@@ -33,7 +33,7 @@ b) username@computername:  /  #
 4a)  ~    means home (user) directory
 4b)  /    means root directory
 5a)  $    means normal mode; normal permissions
-5b)  #    your are logged in as root; dangerous!
+5b)  #    your are logged in as root; be careful!
 ```
 
 SYNTAX
