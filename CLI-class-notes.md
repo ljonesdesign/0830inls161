@@ -4,10 +4,10 @@ All of these commands can be studied in more depth by reading the Server Session
 
 [What is the Bash Shell?](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
-<pre>
+
 GIT BASH prompt (BASH stands for Born Again SHell)
-###############################################################################
-   1        2                   4a
+````
+1        2                   4a
    |        |                    |
    username@computername MINGW64 ~
    $
@@ -15,15 +15,18 @@ GIT BASH prompt (BASH stands for Born Again SHell)
   5a
 
  MINGW64 is just the brand of the terminal, ignore it
+```
 
-MacTerminal:                       
+MacTerminal:   
+```
    1        2           3 4a 5a
    |        |           |  |  |
 a) username@computername:  ~  $  
 b) username@computername:  /  #
                            |  |
                           4b 5b
-
+```
+```
 1 )       User Name
 2 )       Computer Name
 3 )  :    specific to mac Terminal
@@ -31,12 +34,12 @@ b) username@computername:  /  #
 4b)  /    means root directory
 5a)  $    means normal mode; normal permissions
 5b)  #    your are logged in as root; dangerous!
+```
 
 SYNTAX
-###############################################################################
 
 How syntax works (Expanded for ease of understanding):
-
+```
 command   applys to:   directory
      ||                |    |
      cd                ~/.ssh  
@@ -50,14 +53,14 @@ command applys to: filename applys to:      exist. directory and current or new 
      ||            |          |                  |                  |
      mv            portrait.jpg                  images/portrait2.jpg  
                                
-
+```
 COMMANDS
-###############################################################################
 
 You will not master these all today! You have time during networks session, basics lab session
 and we will work on these during the webs sessions, so you have 9 more classes to get these commands
 learned.
 
+```
 pwd         # see your present working directory
 touch &lt;&gt;    # create a new file
 clear       # clears the screen by moving it up, does not delete
@@ -88,14 +91,16 @@ cat         # see two or more files, or use it to
 
 &gt;           # used with the cat command to create one file out of two             
               Example: cat file file2 &gt; file3  
+```
 
 EDITORS
-###############################################################################
+```
 vi or vim   #  vim command line editor
 nano        # nano command line editor
+```
 
 GIT
-###############################################################################
+```
 Git commands we will cover:
 
 git init                 # create
@@ -110,6 +115,7 @@ more                     # see the link below
 less                     # see the link below
 head                     # see the link below
 tail                     # see the link below</pre>
+```
 
 <p><a href="https://2buntu.com/articles/1491/viewing-text-files-on-linux-cat-head-tail-more-and-less/">Viewing text files on linux - cat, head, tail, more and less</a></p>
 
