@@ -1,4 +1,4 @@
-# Command Line Interface class notes for August 30, 2017
+# Archived from Command Line Interface class notes for August 30, 2017 This is not currently in INLS 161 curriculum.
 
 All of these commands can be studied in more depth by reading the Server Session Preparation Materials or links on that page below the Task box.
 
